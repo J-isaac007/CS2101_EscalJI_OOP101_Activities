@@ -1,6 +1,6 @@
 # OOP 101 Activities
 
-This repository contains the activities, exercises, and projects completed for the Object-Oriented Programming (OOP) course.
+This repository may contain the activities, exercises, and projects completed for the Object-Oriented Programming (OOP) course.
 
 ## 📚 Course Information
 
