@@ -20,8 +20,6 @@ The repository may contain the following:
 - Assignments
 - Other course-related activities
 
-Each activity is organized into its respective folder for easier navigation.
-
 ## 🛠️ Technologies Used
 
 - Java
